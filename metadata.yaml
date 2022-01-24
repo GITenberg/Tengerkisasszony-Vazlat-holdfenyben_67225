@@ -1,0 +1,38 @@
+_repo: Tengerkisasszony-Vazlat-holdfenyben_67225
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Karinthy, Frigyes
+    alias: Karinthy, Friedrich
+    birthdate: 1887
+    deathdate: 1938
+    gutenberg_agent_id: '40760'
+    url: http://www.gutenberg.org/2009/agents/40760
+    wikipedia: https://hu.wikipedia.org/wiki/Karinthy_Frigyes
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: https://en.wikipedia.org/wiki/H._G._Wells
+description: ''
+gutenberg_issued: '2022-01-23'
+identifiers:
+  gutenberg: '67225'
+language: hu
+pgterms:marc905: 20220121004026wells
+pgterms:marc906: '1913'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: Hungary :Athenaeum,1913.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Tengerkisasszony: Vázlat, holdfényben'
+url: http://www.gutenberg.org/ebooks/67225
